@@ -1,0 +1,5 @@
+streamlit
+langchain
+langchain-google-genai
+google-generativeai
+protobuf<5  # Ensure compatibility with some langchain/Google packages
